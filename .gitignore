@@ -1,0 +1,30 @@
+# IDEA 相关
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven 编译产物
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# 日志文件
+*.log
+*.gz
+
+# 本地环境配置
+application-local.yml
+application-local.yaml
+application-local.properties
+
+# 操作系统垃圾文件
+.DS_Store
+Thumbs.db
+
+# VSCode（如果你偶尔用vscode打开）
+.vscode/
+
+# 临时文件
+*.tmp
+*.bak
