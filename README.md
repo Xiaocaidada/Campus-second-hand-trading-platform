@@ -19,7 +19,7 @@
 ## 📂 配套仓库
 > 本项目为后端仓库，前端代码独立存放于另一个Github仓库
 
-🔗 **前端服务仓库：** [campus-server](https://github.com/Xiaocaidada/--front)
+🔗 **前端服务仓库：** [campus-front](https://github.com/Xiaocaidada/--front)
 
 ## 🖼️ 项目截图
 ### 前台首页
